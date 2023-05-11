@@ -1,5 +1,4 @@
 # BrownianM_monte_carlo_EUR.USD
-Monte Carlo Simulation with Geometric Brownian Motion Model to Predict Future EUR/USD Exchange Rate
 <h2>Monte Carlo Simulation with Geometric Brownian Motion Model to Predict Future EUR/USD Exchange Rate</h2>
 
 <p>In this notebook, we will be using the Geometric Brownian Motion (GBM) Model to predict the future evolution of the EUR/USD exchange rate. GBM is a stochastic process that is commonly used in financial modeling to simulate the random movement of assets such as stock prices, exchange rates, and commodity prices. It is based on two components: Drift and Volatility.</p>
